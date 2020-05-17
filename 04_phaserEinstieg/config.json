@@ -1,0 +1,7 @@
+{
+    "levels": 2,
+    "stars": 28,
+    "nextLevelDoor": true,
+    "bgmusic": true,
+    "starpoints": 5
+}
